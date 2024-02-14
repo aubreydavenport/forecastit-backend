@@ -92,9 +92,6 @@ class ForecastitService:
                     "desc": weather["description"]
                 })
 
-        print(weatherHistory)
-
-
         return weatherHistory
 
 if __name__ == "__main__":
