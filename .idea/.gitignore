@@ -7,5 +7,5 @@
 /dataSources/
 /dataSources.local.xml
 # Py-cache
-__pycache__/
+../__pycache__/
 *.pyc
